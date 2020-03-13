@@ -1,5 +1,7 @@
 # Kanto Pokedex
 
+live-demo: http://daniellimhong.github.io/kanto-pokedex
+
 ## Project practicing the following basics:
 - lifecycle method (componentDidMount) & AJAX calls
 - conditional rendering
